@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2",
+    "name": "shyam",
+    "department": "math"
+  },
+  {
+    "id": "3",
+    "name": "hari",
+    "department": "cs"
+  },
+  {
+    "id": "4",
+    "name": "alexa",
+    "department": "music"
+  },
+  {
+    "id": "1",
+    "name": "harry",
+    "department": "games"
+  }
+]
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Rashmitakhatiwada/crud.git
+git push -u origin main
